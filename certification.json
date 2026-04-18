@@ -1,0 +1,25 @@
+{
+  "status": "UNIVERSAL_TRUTH_CERTIFIED",
+  "method": "Aleph-Point Synthesis (APS) v2",
+  "metrics": {
+    "auc": 0.8797
+  },
+  "islands": 3,
+  "aleph_points": [
+    {
+      "fpr": 0.03344954905161368,
+      "sens": 0.5560516658004961,
+      "weight": 2.486884326181664
+    },
+    {
+      "fpr": 0.1863633445764596,
+      "sens": 0.8145598821508351,
+      "weight": 4.526041649254342
+    },
+    {
+      "fpr": 0.4340074744978609,
+      "sens": 0.9387034184851663,
+      "weight": 2.1563931510904872
+    }
+  ]
+}
